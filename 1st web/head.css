@@ -1,0 +1,9 @@
+@charset "utf-8";
+.carousel-item .carousel-caption h5 {
+    color: #067420;
+    font-style: italic;
+}
+.carousel-item .carousel-caption h5 {
+    color: #0E0D0E;
+    text-align: center;
+}
